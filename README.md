@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# DevOps-Automation-Suite
-A comprehensive, cross-platform collection of Bash and Python scripts to automate IT operations, system administration, and DevOps workflows. This suite empowers teams to streamline monitoring, backup, compliance, reporting, and remediation tasks—on both Linux and Windows environments.
-=======
 # DevOps Automation Suite
 
 A comprehensive, cross-platform collection of Bash and Python scripts to automate IT operations, system administration, and DevOps workflows. This suite empowers teams to streamline monitoring, backup, compliance, reporting, and remediation tasks—on both Linux and Windows environments.
@@ -148,4 +144,3 @@ For questions, feature requests, or customizations, open an issue or contact you
 
 **Empower your IT operations with automation.  
 Contributions welcome!** 
->>>>>>> cd45f22 (Initial commit: Add DevOps Automation Suite and professional README)
